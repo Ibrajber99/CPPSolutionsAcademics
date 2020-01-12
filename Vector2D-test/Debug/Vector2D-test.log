@@ -1,2 +1,3 @@
 ﻿  test.cpp
+Vector2Dlib.lib(Vector2D.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
   Vector2D-test.vcxproj -> C:\Users\jber5\OneDrive\NBCC\C++ NBCC\C++ test NBCC\Vector2D\Debug\Vector2D-test.exe
